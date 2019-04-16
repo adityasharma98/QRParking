@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRParking</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_customer_login">CustomerLoginActivity</string>
+    <string name="title_activity_admin_login">AdminLoginActivity</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+</resources>
